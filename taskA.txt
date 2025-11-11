@@ -1,0 +1,1 @@
+echo "This is Student A's contribution." > taskA.txt
